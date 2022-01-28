@@ -11,3 +11,6 @@ Once the email is deliverd to the participant email; An email subject message di
 Date: Tuesday, 1th of September, 2020.
 
 Academic Director, RAIN.'
+
+## DATA
+Students_contact.csv - This contains the emails list of the participant 
